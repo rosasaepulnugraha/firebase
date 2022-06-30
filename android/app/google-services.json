@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366419621106",
+    "project_id": "pemrograman3mobile",
+    "storage_bucket": "pemrograman3mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366419621106:android:bbc15b4a2816e64b0d4c6b",
+        "android_client_info": {
+          "package_name": "com.rosa.firebase_cloud_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366419621106-j6dlcamqp0vqjngj2ttphv1eli522gv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOWMV69vlBloQbM3VFJt-buSieEVeK-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366419621106-j6dlcamqp0vqjngj2ttphv1eli522gv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
